@@ -1,0 +1,51 @@
+Pedro Silva, 25, 1478, História
+Eduardo Pereira, 24, 2458, Engenharia Civil
+Maria Oliveira, 30, 3187, Medicina
+Lucas Silva, 22, 1567, Arquitetura
+Ana Santos, 28, 4971, Direito
+Felipe Rodrigues, 26, 3920, Administração
+Carla Costa, 23, 2854, Psicologia
+Rafael Vieira, 31, 1345, Ciência da Computação
+Juliana Almeida, 29, 2098, Enfermagem
+Gustavo Lima, 27, 4285, Artes Cênicas
+Fernanda Martins, 25, 3682, Educação Física
+Pedro Oliveira, 30, 1892, Letras
+Isabela Fernandes, 22, 2701, Farmácia
+Marcelo Souza, 24, 3147, Nutrição
+Amanda Costa, 28, 1390, Odontologia
+José Lima, 26, 4257, Engenharia Elétrica
+Natália Pereira, 23, 2398, Geografia
+Thiago Oliveira, 31, 4269, Física
+Larissa Almeida, 29, 3156, Biologia
+Mateus Silva, 27, 2840, Filosofia
+Mariana Rodrigues, 25, 4287, Química
+Lucas Santos, 30, 2134, Matemática
+Camila Costa, 22, 3152, Design Gráfico
+Vinícius Vieira, 24, 3265, Engenharia Mecânica
+Letícia Almeida, 28, 2910, Comunicação Social
+Guilherme Lima, 26, 1520, Ciências Econômicas
+Patrícia Martins, 23, 3851, História
+Diego Oliveira, 31, 4198, Artes Plásticas
+Luana Fernandes, 29, 1763, Jornalismo
+André Souza, 27, 2846, Ciências da Computação
+Carolina Costa, 25, 2123, Arquitetura
+Roberto Lima, 30, 4291, Engenharia Civil
+Tatiane Pereira, 22, 2994, Medicina Veterinária
+Ricardo Oliveira, 24, 1756, Administração Pública
+Aline Almeida, 28, 4239, Letras
+Fábio Silva, 26, 3098, Engenharia de Produção
+Renata Martins, 23, 2145, Psicologia
+Josué Lima, 31, 3850, Direito
+Luiza Fernandes, 29, 2390, Design de Moda
+Matheus Santos, 27, 2978, Engenharia Química
+Carla Vieira, 25, 3267, Pedagogia
+Carlos Costa, 30, 4234, Arquitetura e Urbanismo
+Monique Oliveira, 22, 1956, Medicina
+Daniel Souza, 24, 4156, Publicidade e Propaganda
+Amanda Lima, 28, 3285, Ciências Políticas
+Rafaela Fernandes, 26, 3840, Teatro
+Eduardo Pereira, 23, 1892, Música
+Giovanni Almeida, 29, 2774, Engenharia de Telecomunicações
+Tatiana Lima, 27, 3892, Artes Visuais
+Felipe Costa, 25, 3258, Administração Hospitalar
+Juliana Oliveira, 30, 4185, Letras
